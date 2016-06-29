@@ -1,0 +1,1 @@
+2016-06-29 09:43:51 Warning: DebugKit not enabled. You need to either install pdo_sqlite, or define the "debug_kit" connection name.
