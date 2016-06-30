@@ -1,2 +1,3 @@
 http://www.sanfoundry.com/1000-php-questions-answers/
 http://www.web-technology-experts-notes.in/2015/03/ajax-interview-questions-and-answers-for-experienced.html
+lists
